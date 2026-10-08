@@ -7,6 +7,9 @@
 
 function toFahrenheit(celsius) {
   // your code here
+  let f = celsius * (9/5) +32;
+  return f;
+
 }
 
 // ----- Checks (do not edit) -----
