@@ -9,10 +9,15 @@
 
 function area(width, height) {
   // your code here
+  let areaval = width * height;
+  return areaval
+
 }
 
 function perimeter(width, height) {
   // your code here
+  let per = 2*( width +  height);
+  return per
 }
 
 // ----- Checks (do not edit) -----
